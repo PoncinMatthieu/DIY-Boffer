@@ -1,9 +1,9 @@
 [Back](index)
 
 # The making of my first Boffer Sword
+> August 17, 2017
 
 ## Introduction
-> August 17, 2017
 
 This post shows how I made my first boffer sword. It is actually very simple, the hardest part was to figure out where to get the materials.
 
