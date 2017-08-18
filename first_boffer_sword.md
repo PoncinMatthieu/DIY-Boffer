@@ -1,5 +1,7 @@
 [Back](index)
 
+# The making of my first Boffer Sword
+
 ## Introduction
 > August 17, 2017
 
@@ -9,10 +11,10 @@ This was my original plan, sorry for the really bad drawing: :scream:
 
 ![Image](/img/IMG_0001.jpg)
 
-So the rougth idea is to make a boffer sword 80cm long. Start with the squelton of the sword and then wrap it up with padding.
+So the rougth idea is to make a boffer sword 80cm long. Start with the skelton of the sword and then wrap it up with padding.
 
-## Squeleton
-To make the squeleton, I've used one of those sticks that shows the road in winter (called **Aurausviitta** in Finnish :stuck_out_tongue: ).
+## Skeleton
+To make the skeleton, I've used one of those sticks that shows the road in winter (called **Aurausviitta** in Finnish :stuck_out_tongue: ).
 
 You can find it in K-Rauta for 1.99€
 
@@ -40,7 +42,7 @@ And use it to make the hand guard, cutting the hose with a knife, drilling 2 hol
 
 Then let's add some handle tape.
 
-Bought again from K-Rauta 6.95€ for 2.75m, this is an expensive bit but I feel this is worth it, it makes the sword looks and feel real nice!
+Bought again from K-Rauta 6.95€ for 2.75m, this is an expensive bit but I feel this is worth it, it makes the sword look and feel real nice!
 
 ![Image](/img/IMG_3002.jpg)
 ![Image](/img/IMG_3003.jpg)
@@ -70,9 +72,9 @@ Then using a gym mat bought from Etola for 4.95€, let's shape up the hand guar
 ![Image](/img/IMG_3027.jpg)
 ![Image](/img/IMG_3013.jpg)
 
-Then for the tip of the sword, I used some foam bought from Etola. ~93€ the square meter, so this is actually quite expansive, but we don't need that much, I only bought a small piece.
+Then for the tip of the sword, I used some foam bought from Etola. ~93€ the square meter, so this is actually quite expensive, but we don't need that much, I only bought a small piece.
 
-The tip of the sword needs to be soft enough for stabs and you shouldn't be able to feel the plastic tube. Also the finish boffer rules allows us to hit in the face to it needs to be big enough to prevent it from going inside the eyes.
+The tip of the sword needs to be soft enough for stabs and you shouldn't be able to feel the plastic tube. Also the finnish boffer rules allow us to hit in the face to it needs to be big enough to prevent it from going inside the eyes.
 
 ![Image](/img/IMG_3015.jpg)
 ![Image](/img/IMG_3016.jpg)
