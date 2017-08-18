@@ -11,7 +11,7 @@ This was my original plan, sorry for the really bad drawing: :scream:
 
 ![Image](/img/IMG_0001.jpg)
 
-So the rougth idea is to make a boffer sword 80cm long. Start with the skelton of the sword and then wrap it up with padding.
+So the rough idea is to make a boffer sword 80cm long. Start with the skeleton of the sword and then wrap it up with padding.
 
 ## Skeleton
 To make the skeleton, I've used one of those sticks that shows the road in winter (called **Aurausviitta** in Finnish :stuck_out_tongue: ).
@@ -42,7 +42,7 @@ And use it to make the hand guard, cutting the hose with a knife, drilling 2 hol
 
 Then let's add some handle tape.
 
-Bought again from K-Rauta 6.95€ for 2.75m, this is an expensive bit but I feel this is worth it, it makes the sword look and feel real nice!
+Bought again from K-Rauta 6.95€ for 2.75m, this is an expensive bit but I feel this is worth it, makes the sword look and feel real nice!
 
 ![Image](/img/IMG_3002.jpg)
 ![Image](/img/IMG_3003.jpg)
@@ -74,7 +74,7 @@ Then using a gym mat bought from Etola for 4.95€, let's shape up the hand guar
 
 Then for the tip of the sword, I used some foam bought from Etola. ~93€ the square meter, so this is actually quite expensive, but we don't need that much, I only bought a small piece.
 
-The tip of the sword needs to be soft enough for stabs and you shouldn't be able to feel the plastic tube. Also the finnish boffer rules allow us to hit in the face to it needs to be big enough to prevent it from going inside the eyes.
+The tip of the sword needs to be soft enough for stabs and you shouldn't be able to feel the plastic tube. Also the finnish boffer rules allow us to hit on the face so it needs to be big enough to prevent it from going inside the eyes.
 
 ![Image](/img/IMG_3015.jpg)
 ![Image](/img/IMG_3016.jpg)
@@ -102,7 +102,7 @@ I now played boffering once with that sword and it was a lot of fun :)
 However some people that knows [Sotahuuto rules](https://www.sotahuuto.fi/saannot.html) much better than I do pointed out a few things that I need to adjust on the sword. I'd recommand taking this into account if anyone follows this post:
 
 - The tip of the sword is ok, it needs to be at least 8cm long. However people usually tighten it less so that it's a bit softer and hurts less. Also I should make holes (eg, with a fork) to let the air go out faster and feel softer when stabbing someone.
-- The edges of the sword have to be thicker, the rules states that it should be 13mm thick, mine is around 10mm. (I honestly though that the edges was only there for the aesthetics, but apparently not.. Even though people can hit with any part of the sword, the "edges" have to be padded specifically depending on the lenght of the sword)
+- The edges of the sword have to be thicker, the rules states that it should be 13mm thick, mine is around 10mm. (I honestly thought that the edges was only there for the aesthetics, but apparently not.. Even though people can hit with any part of the sword, the "edges" have to be padded specifically depending on the lenght of the sword)
 - The pommel of the sword also is too small, it should be large enough so that it cannot get into anyone's eyes.
 - The guard of the sword needs to be rigid enough and mine can be crushed, I should either use stronger hose for it or give it a stronger arc
 
