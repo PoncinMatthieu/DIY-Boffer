@@ -9,7 +9,7 @@ This post shows how I made my first boffer sword. It is actually very simple, th
 
 This was my original plan, sorry for the really bad drawing: :scream:
 
-![Image](/img/IMG_0001.jpg)
+![Image](/img/sword/IMG_0001.jpg)
 
 So the rough idea is to make a boffer sword 80cm long. Start with the skeleton of the sword and then wrap it up with padding.
 
@@ -18,34 +18,34 @@ To make the skeleton, I've used one of those sticks that shows the road in winte
 
 You can find it in K-Rauta for 1.99€
 
-![Image](/img/IMG_2990.jpg)
-![Image](/img/IMG_2991.jpg)
+![Image](/img/sword/IMG_2990.jpg)
+![Image](/img/sword/IMG_2991.jpg)
 
 
 Now let's cut this with my precious metal saw. Putting in a picture because i've actually used it to cut almost everything.
 Cutting it to around 70cm long.
 
-![Image](/img/IMG_3025.jpg)
-![Image](/img/IMG_2994.jpg)
+![Image](/img/sword/IMG_3025.jpg)
+![Image](/img/sword/IMG_2994.jpg)
 
 
 Let's use some garden hose bought from K-Rauta (4.95€ for 20 meters -- not bad)
 
-![Image](/img/IMG_2997.jpg)
+![Image](/img/sword/IMG_2997.jpg)
 
 
 And use it to make the hand guard, cutting the hose with a knife, drilling 2 holes and placing 2 bolts.
 
-![Image](/img/IMG_2999.jpg)
-![Image](/img/IMG_3001.jpg)
+![Image](/img/sword/IMG_2999.jpg)
+![Image](/img/sword/IMG_3001.jpg)
 
 
 Then let's add some handle tape.
 
 Bought again from K-Rauta 6.95€ for 2.75m, this is an expensive bit but I feel this is worth it, makes the sword look and feel real nice!
 
-![Image](/img/IMG_3002.jpg)
-![Image](/img/IMG_3003.jpg)
+![Image](/img/sword/IMG_3002.jpg)
+![Image](/img/sword/IMG_3003.jpg)
 
 
 ## Padding
@@ -53,37 +53,37 @@ The result is pretty nice already and makes me wanna use the sword already as it
 
 I bought from Bauhaus some pipe isolations for 2.5€ pieces (3.80€ in K-Rauta :eyes: )
 
-![Image](/img/IMG_3004.jpg)
-![Image](/img/IMG_3005.jpg)
-![Image](/img/IMG_3007.jpg)
+![Image](/img/sword/IMG_3004.jpg)
+![Image](/img/sword/IMG_3005.jpg)
+![Image](/img/sword/IMG_3007.jpg)
 
 
 Then let's cut it with the precious metal saw:
 
-![Image](/img/IMG_3008.jpg)
-![Image](/img/IMG_3011.jpg)
+![Image](/img/sword/IMG_3008.jpg)
+![Image](/img/sword/IMG_3011.jpg)
 
 And start tapping:
 
-![Image](/img/IMG_3012.jpg)
+![Image](/img/sword/IMG_3012.jpg)
 
 Then using a gym mat bought from Etola for 4.95€, let's shape up the hand guard:
 
-![Image](/img/IMG_3027.jpg)
-![Image](/img/IMG_3013.jpg)
+![Image](/img/sword/IMG_3027.jpg)
+![Image](/img/sword/IMG_3013.jpg)
 
 Then for the tip of the sword, I used some foam bought from Etola. ~93€ the square meter, so this is actually quite expensive, but we don't need that much, I only bought a small piece.
 
 The tip of the sword needs to be soft enough for stabs and you shouldn't be able to feel the plastic tube. Also the finnish boffer rules allow us to hit on the face so it needs to be big enough to prevent it from going inside the eyes.
 
-![Image](/img/IMG_3015.jpg)
-![Image](/img/IMG_3016.jpg)
-![Image](/img/IMG_3017.jpg)
+![Image](/img/sword/IMG_3015.jpg)
+![Image](/img/sword/IMG_3016.jpg)
+![Image](/img/sword/IMG_3017.jpg)
 
 
 Finally use some more padding for the edges of the sword and wrap up everything with Jesus tape.
 
-![Image](/img/IMG_3018.jpg)
+![Image](/img/sword/IMG_3018.jpg)
 
 At this point, the sword is ready for use :)
 
@@ -91,8 +91,8 @@ At this point, the sword is ready for use :)
 ## Wrapping up
 As a final touch I added some more tape + one side of hook and loop tape for my future shield (that will be explained in my next post).
 
-![Image](/img/IMG_3030.jpg)
-![Image](/img/IMG_3031.jpg)
+![Image](/img/sword/IMG_3030.jpg)
+![Image](/img/sword/IMG_3031.jpg)
 
 
 ## Conclusion
