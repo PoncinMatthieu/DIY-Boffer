@@ -1,7 +1,7 @@
 [Back](index)
 
 # In making: Boffer Shield
-> September 10, 2017
+> February 12, 2018
 
 ## Introduction
 This post shows how I made my Spartan shield. This requires quite a bit more work than the [Spartan Sword](first_boffer_sword.md) but this is still as easy.
