@@ -99,7 +99,7 @@ As a final touch I added some more tape + one side of hook and loop tape for my 
 
 I now played boffering once with that sword and it was a lot of fun :)
 
-However some people that knows [Sotahuuto rules](https://www.sotahuuto.fi/saannot.html) much better than I do pointed out a few things that I need to adjust on the sword. I'd recommand taking this into account if anyone follows this post:
+However some people that knows [Sotahuuto rules](https://www.sotahuuto.fi/saannot.html) much better than I do pointed out a few things that I need to adjust on the sword. I'd recommand taking this into account if anyone read this post:
 
 - The tip of the sword is ok, it needs to be at least 8cm long. However people usually tighten it less so that it's a bit softer and hurts less. Also I should make holes (eg, with a fork) to let the air go out faster and feel softer when stabbing someone.
 - The edges of the sword have to be thicker, the rules states that it should be 13mm thick, mine is around 10mm. (I honestly thought that the edges was only there for the aesthetics, but apparently not.. Even though people can hit with any part of the sword, the "edges" have to be padded specifically depending on the lenght of the sword)
