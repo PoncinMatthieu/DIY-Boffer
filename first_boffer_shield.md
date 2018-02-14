@@ -12,7 +12,7 @@ As I am trying to follow the Sotahuuto rules, the shield has to be padded all ov
 
 
 ## Skeleton
-First starting with plywood. What I've got is 9mm thick (TODO COST), it looks quite sturdy so it should be pretty good. I think I might have been able to save up on the wieght with even thinner plywood and some reenforcement crossing the center.
+First starting with plywood. What I've got is 9mm thick, you can find it in size of 9mm * 1.2m x 2.4m at 24.9€ in Bauhaus, enough to make 2 shields. It looks quite sturdy so it should be pretty good. I think I might have been able to save up on the wieght with even thinner plywood and some reenforcement crossing the center.
 
 Drawing up the structural shape of the shield..
 ![image](/img/shield/IMG_3061.jpg)
@@ -22,7 +22,7 @@ Then cutting the board with a jigsaw.
 ![image](/img/shield/IMG_3066.jpg)
 ![image](/img/shield/IMG_3072.jpg)
 
-Next up, I drilled a few holes and placed in a handle (cost 4.25€ from KRauta).
+Next up, I drilled a few holes and placed in a handle. The handle cost 4.25€ from KRauta.
 ![image](/img/shield/IMG_3073.jpg)
 
 Notice the shape of the screws I used, I thought these would be good idea whenever I need to tighten it up from the handle side (the other side will be wrapped up coverd by padding and cloth!
@@ -34,7 +34,7 @@ This shield is meant to be supported by the forearm as well, so i've cut a piece
 ![image](/img/shield/IMG_3082.jpg)
 ![image](/img/shield/IMG_3083.jpg)
 
-Finally to finish with the shield skeleton, I wraped the edges with garden hose. This is to make sure their is no hard edges and the padding around it will endure chocs.
+Finally to finish with the shield skeleton, I wraped the edges with garden hose. This is to make sure their is no hard edges and the padding around it will endure chocs. It's also very cheap, only 4.95€ the 20 meters.
 ![image](/img/shield/IMG_3085.jpg)
 ![image](/img/shield/IMG_3086.jpg)
 ![image](/img/shield/IMG_3087.jpg)
@@ -43,13 +43,13 @@ Finally to finish with the shield skeleton, I wraped the edges with garden hose.
 ## Pading
 Now this is already a very nice looking shield in my opinion, but sadly we have put put in all this padding.
 
-Around the edges with isolation pipe... (TODO COST)
+Around the edges with isolation pipe, this one cost 2.5€ pieces from Bauhaus, and I used 3.
 ![image](/img/shield/IMG_3089.jpg)
 ![image](/img/shield/IMG_3090.jpg)
 ![image](/img/shield/IMG_3091.jpg)
 ![image](/img/shield/IMG_3092.jpg)
 
-And on the front with yoga mat... (TODO COST)
+And on the front with yoga mat. At 4.95€ from Etola.
 ![image](/img/shield/IMG_3141.JPG)
 ![image](/img/shield/IMG_3142.JPG)
 ![image](/img/shield/IMG_3143.JPG)
@@ -60,13 +60,13 @@ And on the front with yoga mat... (TODO COST)
 ![image](/img/shield/IMG_3148.JPG)
 
 ## Accessories
-Then I'm adding small extras before finishing up the shield.
+Then I'm adding small extras before finishing up the shield, those are all quite optional.
 
-Here is some kind of gym strap that I'll use to carry the shield around on my back. (TODO COST)
+Here is some kind of gym strap that I'll use to carry the shield around on my back. This is I think the most expansive piece but can't remember the price and didn't keep the receipt.
 ![image](/img/shield/IMG_3103.jpg)
 ![image](/img/shield/IMG_3135.JPG)
 
-A hook and loop tape, this is for attaching my sword on the shield when fighting with spear. (TODO COST)
+A hook and loop tape, this is for attaching my sword on the shield when fighting with spear. Same for this one, it was quite expensive but don't remember the price unfortunately.
 ![image](/img/shield/IMG_3136.JPG)
 ![image](/img/shield/IMG_3137.JPG)
 
@@ -76,7 +76,9 @@ And some more padding for some stability and comfort while handling the shield.
 
 
 ## Wrap up
-Then to protect the padding from bad weather and for stealth at night, some black fabric :p (TODO COST)
+Then to protect the padding from bad weather and for stealth at night, I added black fabric :p
+
+The fabric was 14.28€ the 1.2x1.2 meters.
 ![image](/img/shield/IMG_3149.JPG)
 ![image](/img/shield/IMG_3150.JPG)
 ![image](/img/shield/IMG_3151.JPG)
@@ -93,5 +95,5 @@ It's almost over, but the shield would be quite blend without a logo, so here it
 Barbabeau says hi! :D
 
 ## Conclusion
-It's winter now and I didn't get the chance to use the shield yet... But i'm eager to and hopefully use it for next Sotahuuto.
-Total cost was: (TODO COST)
+It's winter now and I didn't get the chance to use the shield yet... But i'm eager to try it and hopefully use it for next Sotahuuto.
+Total cost of the shield was 60.83 euros without the accessories, this was certainly more costly than the Sword I made earlier but most of the cost involve actually can be reused. I'd only need to buy very few things to build a second shield/sword.
