@@ -41,7 +41,7 @@ Finally to finish with the shield skeleton, I wraped the edges with garden hose.
 ![image](/img/shield/IMG_3088.jpg)
 
 ## Pading
-Now this is already a very nice looking shield in my opinion, but sadly we have put put in all this padding.
+Now this is already a very nice looking shield in my opinion, but sadly we have to put in all this padding.
 
 Around the edges with isolation pipe, this one cost 2.5€ pieces from Bauhaus, and I used 3.
 ![image](/img/shield/IMG_3089.jpg)
@@ -78,7 +78,7 @@ And some more padding for some stability and comfort while handling the shield.
 ## Wrap up
 Then to protect the padding from bad weather and for stealth at night, I added black fabric :p
 
-The fabric was 14.28€ the 1.2x1.2 meters.
+The fabric was 14.28€ for 1.2x1.2 meters.
 ![image](/img/shield/IMG_3149.JPG)
 ![image](/img/shield/IMG_3150.JPG)
 ![image](/img/shield/IMG_3151.JPG)
@@ -96,4 +96,4 @@ Barbabeau says hi! :D
 
 ## Conclusion
 It's winter now and I didn't get the chance to use the shield yet... But i'm eager to try it and hopefully use it for next Sotahuuto.
-Total cost of the shield was 60.83 euros without the accessories, this was certainly more costly than the Sword I made earlier but most of the cost involve actually can be reused. I'd only need to buy very few things to build a second shield/sword.
+Total cost of the shield was 60.83 euros without the accessories, this was certainly more costly than the Sword I made earlier but most of the things I bought actually can be reused. I'd need to buy only very few things to build a second shield/sword.
